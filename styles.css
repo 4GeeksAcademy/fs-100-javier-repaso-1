@@ -1,0 +1,14 @@
+.myCard{
+    width: 16rem;
+    background-color: antiquewhite;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    border: 0;
+    border-radius: 0;
+    border-left: 3px solid red;
+}
+
+.myCard:hover{
+    border: 3px solid yellow;
+    box-shadow: 3px 3px 5px 5px whitesmoke;
+}
